@@ -36,11 +36,9 @@ Install the required dependencies to run the project locally:
 
 ### 4. Create a New Branch
 Create a new branch for each feature or bug fix you're working on:
-"`bash
+```bash
 git checkout -b feature/your-feature-name
 ```
-
----
 
 ## Contributing Guidelines
 
@@ -64,13 +62,13 @@ Write clear, concise commit messages:
 - **Types**: `feat` (feature), `fix` (bug fix), `docs` (documentation changes), `style` (formatting, missing semi-colons), `refactor` (code changes that neither fix a bug nor add a feature), `test` (adding or updating tests), `chore` (updating build tasks, package manager configs).
   
 Example:
-"`bash
+```bash
 git commit -m "feat: add face shape classifier using CNN model."
 ```
 
 ### Pull Requests
 1. **Push Changes**: Once your changes are complete, push them to your fork:
-   "`bash
+   ```bash
    git push origin feature/your-feature-name
    ```
 
