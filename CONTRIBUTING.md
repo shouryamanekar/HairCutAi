@@ -1,7 +1,7 @@
-```markdown
-# Contributing to AI-Powered Haircut Recommendation System
 
-Welcome to the **AI-Powered Haircut Recommendation System**! We’re thrilled to have you participate in the development of this project, especially during Hacktoberfest! Your contributions will help make our hairstyle recommendation system smarter, more accurate, and more enjoyable for users. Please review this guide to get started.
+# Contributing to an AI-Powered Haircut Recommendation System
+
+Welcome to the **AI-Powered Haircut Recommendation System**! We’re thrilled to have you participate in developing this project, especially during Hacktoberfest! Your contributions will help make our hairstyle recommendation system smarter, more accurate, and more enjoyable for users. Please review this guide to get started.
 
 ---
 
@@ -32,11 +32,11 @@ Install the required dependencies to run the project locally:
   ```
 
 - **Database Setup**:
-  Configure MongoDB or PostgreSQL for storing user data and hairstyle recommendations.
+  Configure MongoDB or PostgreSQL to store user data and hairstyle recommendations.
 
 ### 4. Create a New Branch
-Create a new branch for each feature or bug fix you’re working on:
-```bash
+Create a new branch for each feature or bug fix you're working on:
+"`bash
 git checkout -b feature/your-feature-name
 ```
 
@@ -45,8 +45,8 @@ git checkout -b feature/your-feature-name
 ## Contributing Guidelines
 
 ### Issue Selection
-- Look through the [Issues](https://github.com/shouryamanekar/haircut-recommendation-system/issues) tab to find tasks labeled as `hacktoberfest`, `good first issue`, or `help wanted`.
-- If you'd like to work on an issue, comment on it to let us know you're taking it on.
+- Look through the [Issues](https://github.com/shouryamanekar/haircut-recommendation-system/issues) tab to find tasks labelled as `hacktoberfest`, `good first issue`, or `help wanted`.
+- If you'd like to work on an issue, please feel free to comment on it to let us know you're taking it on.
 
 ### Code Standards
 Please follow these coding conventions for consistency:
@@ -64,13 +64,13 @@ Write clear, concise commit messages:
 - **Types**: `feat` (feature), `fix` (bug fix), `docs` (documentation changes), `style` (formatting, missing semi-colons), `refactor` (code changes that neither fix a bug nor add a feature), `test` (adding or updating tests), `chore` (updating build tasks, package manager configs).
   
 Example:
-```bash
-git commit -m "feat: add face shape classifier using CNN model"
+"`bash
+git commit -m "feat: add face shape classifier using CNN model."
 ```
 
 ### Pull Requests
 1. **Push Changes**: Once your changes are complete, push them to your fork:
-   ```bash
+   "`bash
    git push origin feature/your-feature-name
    ```
 
@@ -84,9 +84,9 @@ git commit -m "feat: add face shape classifier using CNN model"
 
 ## Hacktoberfest Guidelines
 
-- **Quality Contributions**: Hacktoberfest emphasizes quality over quantity. Ensure each PR is meaningful and contributes to the project’s improvement.
+- **Quality Contributions**: Hacktoberfest emphasizes quality over quantity. Please make sure each PR is meaningful and contributes to the project's improvement.
 - **Avoid Spam**: PRs that are irrelevant or spammy may be marked as invalid, which can impact your Hacktoberfest completion status.
-- **Labeling**: We’ll label eligible Hacktoberfest contributions, so make sure your contributions align with project goals!
+- **Labeling**: We'll label eligible Hacktoberfest contributions, so make sure your contributions align with project goals!
 
 ## Community and Support
 
@@ -98,7 +98,7 @@ If you have any questions or need clarification, feel free to:
 
 ## Code of Conduct
 
-We’re committed to fostering a welcoming and inclusive environment for everyone. Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+We're committed to fostering a welcoming and inclusive environment for everyone. Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Thank you for helping us build a smarter, user-friendly AI-powered haircut recommendation system! Your efforts make a difference.
 Happy Hacking, and Happy Hacktoberfest!
