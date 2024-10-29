@@ -1,4 +1,4 @@
-```markdown
+
 # AI-Powered Haircut Recommendation System
 
 ## Overview
