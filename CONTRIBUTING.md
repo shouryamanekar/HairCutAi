@@ -100,4 +100,3 @@ We're committed to fostering a welcoming and inclusive environment for everyone.
 
 Thank you for helping us build a smarter, user-friendly AI-powered haircut recommendation system! Your efforts make a difference.
 Happy Hacking, and Happy Hacktoberfest!
-```
