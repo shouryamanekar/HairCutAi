@@ -51,8 +51,8 @@ The AI-Powered Haircut Recommendation System is an application designed to analy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shouryamanekar/haircut-recommendation-system.git
-cd haircut-recommendation-system
+git clone https://github.com/sm-developers/HairCutAi.git
+cd HairCutAi
 ```
 
 ### 2. Install Dependencies
